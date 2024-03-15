@@ -5,4 +5,4 @@ PS: The menu bar background is white!
 
 Links:
 Github : https://naomii01.github.io/DropDown-NavBar/
-Netlify: https://side-bar-mennuu.netlify.app/
+Netlify: https://drop-down-navbar.netlify.app/
